@@ -1,3 +1,4 @@
 public class User {
-    int id;
+    private int id;
+    private String name;
 }
